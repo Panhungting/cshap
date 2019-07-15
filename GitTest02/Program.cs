@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace GitTest01
+namespace GitTest02
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!0715_3");
+            Console.WriteLine("Hello World!");
         }
     }
 }
