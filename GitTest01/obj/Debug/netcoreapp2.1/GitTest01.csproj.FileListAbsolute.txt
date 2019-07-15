@@ -1,0 +1,11 @@
+C:\Users\PAN\Desktop\cshap\GitTest01\bin\Debug\netcoreapp2.1\GitTest01.deps.json
+C:\Users\PAN\Desktop\cshap\GitTest01\bin\Debug\netcoreapp2.1\GitTest01.runtimeconfig.json
+C:\Users\PAN\Desktop\cshap\GitTest01\bin\Debug\netcoreapp2.1\GitTest01.runtimeconfig.dev.json
+C:\Users\PAN\Desktop\cshap\GitTest01\bin\Debug\netcoreapp2.1\GitTest01.dll
+C:\Users\PAN\Desktop\cshap\GitTest01\bin\Debug\netcoreapp2.1\GitTest01.pdb
+C:\Users\PAN\Desktop\cshap\GitTest01\obj\Debug\netcoreapp2.1\GitTest01.csprojAssemblyReference.cache
+C:\Users\PAN\Desktop\cshap\GitTest01\obj\Debug\netcoreapp2.1\GitTest01.csproj.CoreCompileInputs.cache
+C:\Users\PAN\Desktop\cshap\GitTest01\obj\Debug\netcoreapp2.1\GitTest01.AssemblyInfoInputs.cache
+C:\Users\PAN\Desktop\cshap\GitTest01\obj\Debug\netcoreapp2.1\GitTest01.AssemblyInfo.cs
+C:\Users\PAN\Desktop\cshap\GitTest01\obj\Debug\netcoreapp2.1\GitTest01.dll
+C:\Users\PAN\Desktop\cshap\GitTest01\obj\Debug\netcoreapp2.1\GitTest01.pdb
